@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: Chunjiang Che
+permalink: /
 subtitle: <a href='#'>Duke University</a>. North Carolina, US.
 
 profile:
