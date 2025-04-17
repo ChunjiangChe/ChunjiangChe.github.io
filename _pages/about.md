@@ -1,8 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+permalink: Chunjiang Che
+subtitle: <a href='#'>Duke University</a>. North Carolina, US.
 
 profile:
   align: right
