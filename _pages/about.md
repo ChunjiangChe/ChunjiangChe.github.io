@@ -25,7 +25,7 @@ Education
 
 * Duke University (2025.8-present) \\
   PhD in Computer Science
-* Hong Kong University of Science and Technology (2022.9-2024.10) \\
+* Hong Kong University of Science and Technology (Guangzhou) (2022.9-2024.10) \\
   MPhil in Internet of Things
 * Sun Yat-sen University (2018.9-2022.6) \\
   BS in Software Engineering
