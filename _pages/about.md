@@ -20,6 +20,16 @@ My research lies in the field of distributed systems, with key interests in:
 
 My work is supported by both rigorous theoretical analysis and practical system implementations.
 
+Education
+======
+
+* Duke University (2025.8-present) \\
+  PhD in Computer Science
+* Hong Kong University of Science and Technology (2022.9-2024.10) \\
+  MPhil in Internet of Things
+* Sun Yat-sen University (2018.9-2022.6) \\
+  BS in Software Engineering
+
 Selected Publications
 ======
 
@@ -30,4 +40,10 @@ Selected Publications
 * [A Decentralized Federated Learning Framework via Committee Mechanism With Convergence Guarantee](https://ieeexplore.ieee.org/abstract/document/9870745) \\
   **Chunjiang Che**, Xiaoli Li, Chuan Chen, Xiaoyu He, Zibin Zheng \\
   TPDS
+
+Awards
+======
+* 2024 Outstanding Student Achievement Award in HKUST(GZ)
+* The 45th ICPC Asia Regional Contest Gold Medal (with Tailin Chen and Jiawei Tan)
+* 2022 Sun Yat-sen University ACM School Competition First Prize
 
