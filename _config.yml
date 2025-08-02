@@ -22,7 +22,7 @@ repository               : "ChunjiangChe/ChunjiangChe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile2.jpg"
   name             : "Chunjiang Che"
   pronouns         : "He/his" # example: "she/her"  
   bio              : "Duke CS PhD student"
