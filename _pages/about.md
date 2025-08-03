@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Chunjiang Che is a CS Ph.D. student in Computer Science at Duke University, advised by [Prof. Kartik Nayak](https://users.cs.duke.edu/~kartik/). He received his M.Phil. degree in Internet of Things from the Hong Kong University of Science and Technology (Guangzhou) in 2024, where he was advised by [Prof. Xuechao Wang](https://xuechao2.github.io/) and [Prof. Songze Li](https://songzli.github.io/). He previously earned his Bachelor's degree in Computer Science from Sun Yat-sen University in 2022, under the supervision of [Prof. Chuan Chen](https://cse.sysu.edu.cn/teacher/Chenchuan).
+Chunjiang Che is a Ph.D. student in Computer Science at Duke University, advised by [Prof. Kartik Nayak](https://users.cs.duke.edu/~kartik/). He received his M.Phil. degree in Internet of Things from the Hong Kong University of Science and Technology (Guangzhou) in 2024, where he was advised by [Prof. Xuechao Wang](https://xuechao2.github.io/) and [Prof. Songze Li](https://songzli.github.io/). He previously earned his Bachelor's degree in Computer Science from Sun Yat-sen University in 2022, under the supervision of [Prof. Chuan Chen](https://cse.sysu.edu.cn/teacher/Chenchuan).
 
 
 Research Interest
