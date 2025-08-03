@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/Manifoldchain
 excerpt: #'This paper is about a famous math equation, $$E=mc^2$$'
 date: 2025-02-27
-venue: 'The Network and Distributed System Security Symposium (NDSS) 2025'
+venue: 'The Network and Distributed System Security Symposium (NDSS)'
 slidesurl: 'https://www.ndss-symposium.org/wp-content/uploads/4D-s0028-che.pdf'
 paperurl: 'https://www.ndss-symposium.org/wp-content/uploads/2025-28-paper.pdf'
 bibtexurl: 'https://dblp.org/rec/conf/ndss/CheLW25.html?view=bibtex'
